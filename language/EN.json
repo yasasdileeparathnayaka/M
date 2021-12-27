@@ -2,7 +2,7 @@
     "__AMDIJSON__": true,
     "LANGUAGE": "English",
     "LANGCODE": "english",
-    "AUTHOR": "BlackAmda",
+    "AUTHOR": "yasasdileepa",
     "STRINGS": {
         "_amdi": {
             "COMMAND": "Command",
@@ -50,7 +50,7 @@
             "HAPIKEY_DESC" : "How to change Heroku API key"
         },
         "_settings": {
-            "RESTART": "*💬 Queen Amdi automatically restarting!*",
+            "RESTART": "*💬 Maraya automatically restarting!*",
             "SUCPUB": "✅ Public mode activated!",
             "SUCPVT": "✅ Private mode activated!"
         },
@@ -153,7 +153,7 @@
             "GOODBYE_SETTED": "*✅ Goodbye message has been setted successfully!*"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Queen Amdi",
+            "RESTART_DESC": "Restart Maraya",
             "RESTART_MSG": "```♻️ Restarting...```",
             "SHUTDOWN_DESC": "To shut down bot",
             "SHUTDOWN_MSG": "```Shutdown ⛔```",
@@ -412,7 +412,7 @@
             "ID_WORD": "║ _Report ID :_ ",
             "USER": "║ _User :_ ",
             "REASON": "║ _Reason :_ ",
-            "END": "╚═➤ *✘👸🏻♥️𝚀𝚞𝚎𝚎𝚗 𝙰𝚖𝚍𝚒 𝙿𝚞𝚋𝚕𝚒𝚌♥️👸🏻✘* ═➤",
+            "END": "╚═➤ *✘King Maraya Public✘* ═➤",
             "REPLY": "Please reply to a message",
             "BR": "║"
         },
@@ -504,7 +504,7 @@
         },
         "unlimiteddata":{
             "ehi_desc": "Make your data packages to unlimited data packages.\n*(Only for Sri Lankan Users)*",
-            "ehi_help": "╔═══════❪💃🏻♥️❫\n\n▷ *❖ Queen Amdi Unlimited Data ❖* ◁\n\n```[EHI Method]```\n\n╚═════≪ •❈• ≫═════",
+            "ehi_help": "╔═══════❪🔱⚜❫\n\n▷ *❖ Maraya Unlimited Data ❖* ◁\n\n```[EHI Method]```\n\n╚═════≪ •❈• ≫═════",
             "ehi_info": "*✨ What is EHI file?*\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nAn EHI file is a config file used by Evozi HTTP Injector, an Android app that allows users to browse the Internet via a VPN.\nThese files contain settings to configure HTTP Injector, including server login credentials and security/locking information.\nHTTP Injector allows users to spoof their location and mask their identity while browsing the Internet, using an SSH connection and proxy servers.\nIt also allows users to access websites that have been blocked by their ISP's(Internet Service Provider Or your SIM company) firewall.\nAs such, the app and the EHI files associated with it are popular in countries that restrict or monitor their populace's Internet access.\n\n*In Sri Lanka,* we have unlimited packages from so many ISP.\n\n(Ex: Dialog Rs.97 Unlimited Facebook, WhatsApp & YouTube)\n\nSo, we can use this oppurtunity to crack their block and visit other sites blocker and brwose unlimited internet by using EHI.\n\n```[Author : Black Amda]```",
             "ehi_how": "*How to install EHI?*\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n_Note : You need to activate unilimited data package. And DON'T TRY THIS IF YOU ALREADY HAVE DATA REMAINING._\n\n1️⃣ Download and install HTTP Injector. (Type *.ehi* click download files button to get apk)\n\n2️⃣ Download one page of EHI files from bot.\n🔧 Type *.ehi* and click Download files and select All EHI files to get EHI files.\n\n3️⃣ Select your suitable EHI for your package.\n```Example :``` If you have activated facebook only unlimited package from SIM. You have to choose EHI Files with name *Facebook*. Then, you can browse other sites from your facebook only unlimited data package.\n\n4️⃣ Now, click on your selected EHI file and open from HTTP Injector.\n\n5️⃣ Click *Start* button to connect EHI config.\n\nNow you can ENJOY UNLIMITED DATA.\n\nIf your connection slow, change EHI files from another server (US 01, US 02, SG).\n\nThese EHI files only valid for *30days* from import date. After that you have to get another set of EHI and renew. And also you can change server from Injector app settings.\n\n```Queen Amdi Team💃🏻♥️```"
         },
@@ -522,7 +522,7 @@
             "INVALID_HEROKU": "*❌ Your HEROKU_API_KEY wrong! Visit https://dashboard.heroku.com/account . Scroll down to API key. Click reveal buttong. Copy that API key and paste it in HEROKU_API_KEY config vars.*",
             "UPDATED": "*✅ Successfully updated!*",
             "UPDATED_LOCAL": "*✅ Successfully updated!*",
-            "AFTER_UPDATE": "*💬 Queen Amdi automatically restarting!*",
+            "AFTER_UPDATE": "*💬 Maraya automatically restarting!*",
             "VERIFY_DESC": "Verify your bot officially.",
             "VERIFY": "*Your bot is verified!✅*",
             "VERIFIED": "*✅ Successfully verified!*",
@@ -565,8 +565,8 @@
             "PING_DESC": "Your ping.",
             "URL": "Shorten link.",
             "NEED": "*Need a link!*",
-            "AMDI_QR": "Get QR code to install Queen Amdi Bot.",
-            "HELP_QR": "1️⃣ Scan the *QR code.*\n\n2️⃣ Visit https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi to install the bot. _(Type *.getqr stop* to stop QR generating)_",
+            "AMDI_QR": "Get QR code to install Maraya Bot.",
+            "HELP_QR": "1️⃣ Scan the *QR code.*\n\n2️⃣ Visit https://heroku.com/deploy?template=https://github.com/ to install the bot. _(Type *.getqr stop* to stop QR generating)_",
             "INBOX": "*Please get QR from messaging to inbox. _(.getqr)_*"
         }
     }
